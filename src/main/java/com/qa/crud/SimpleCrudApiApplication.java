@@ -1,4 +1,4 @@
-package com.qa.domain;
+package com.qa.crud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

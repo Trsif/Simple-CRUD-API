@@ -54,11 +54,6 @@ public class HeroController {
 			@PathParam("universe") String universe, 
 			@PathVariable int id)
 		{
-//			Hero updateHero = this.service.updateHero(id, null);
-//			updateHero.setRealName(realName);
-//			updateHero.setHeroName(heroName);
-//			updateHero.setUniverse(universe);
-//			return new ResponseEntity<Hero>(HttpStatus.ACCEPTED);	
 			return null;
 	}
 	

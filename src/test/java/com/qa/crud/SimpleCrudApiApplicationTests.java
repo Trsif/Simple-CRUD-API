@@ -1,4 +1,4 @@
-package com.qa.domain;
+package com.qa.crud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

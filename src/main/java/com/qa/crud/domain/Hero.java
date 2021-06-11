@@ -17,6 +17,13 @@ public class Hero {
 	public Hero() {
 		
 	}
+	
+	public Hero(Long id, String realName, String heroName, String universe) {
+		this.id = id;
+		this.heroName = heroName;
+		this.realName = realName;
+		this.universe = universe;
+	}
 	public Hero(String realName, String heroName, String universe) {
 		super();
 		this.heroName = heroName;
